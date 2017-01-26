@@ -16,8 +16,8 @@ resume: true
 resume-external: false
 resume-url: assets/curriculumVitae.pdf
 
-url: https://koppl.in/indigo
-your url: http://AValsamis.github.io
+
+url: http://AValsamis.github.io
 
 permalink: /:title/
 
