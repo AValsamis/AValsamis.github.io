@@ -32,7 +32,7 @@ and alert all interested parties.</p>
  We create an Android Application that can be run on an android smart-device that
  sends data into an integrated server. The server collects the data and uses them
  into a threshold based fall detection algorithm to identify potentially dangerous
- situations. The alerts are then forwarded to the interested individual’s smartphone.
+ situations. The alerts are then forwarded to the interested individual’s smart phone.
  Special focus is given in creating a lightweight client in order to be able to prolong
  smart-device’s battery life, since constant sensor data collection significantly
  contribute to the total power consumption of the device.

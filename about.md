@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p align="justify"> I am a computer scientist at Process Control & Informatics Unit 
-of National Technical University of Athens lead by Prof. Haralambos 
+of National Technical University of Athens led by Prof. Haralambos
 Sarimveis and a graduate student in Computer Science at the 
 National and Kapodistrian University of Athens. I hold a Bachelor of Computer Science 
 from National and Kapodistrian University of Athens. I have been involved in several EU funded projects focusing
