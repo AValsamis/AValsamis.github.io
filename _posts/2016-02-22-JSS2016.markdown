@@ -8,5 +8,5 @@ description: "A complete and realistic solution to fall detection"
 author: avalsamis
 
 
-externalLink: /assets/Employing_traditional_machine_learning_algorithms.pdf
+externalLink: /assets/Employing_traditional_machine_learning_algorithms_for_big_data_streams_analysis:_The_case_of_object_trajectory_prediction.pdf
 ---
