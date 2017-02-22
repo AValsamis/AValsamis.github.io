@@ -1,0 +1,12 @@
+---
+title: "Valsamis A., Psychas A., Aisopos F., Menychtas A., Varvarigou T. (2017) Second Screen User Profiling and Multi-level Smart Recommendations in the Context of Social TVs. In: Wu TT., Gennari R., Huang YM., Xie H., Cao Y. (eds) Emerging Technologies for Education. SETE 2016. Lecture Notes in Computer Science, vol 10108. Springer, Cham, dx.doi.org/10.1007/978-3-319-52836-6_55 (post-print)"
+layout: post
+date: 2017-02-22 12:30
+publications: true
+hidden: true # don't count this post in blog pagination
+description: "A complete and realistic solution to fall detection"
+author: avalsamis
+
+
+externalLink: /assets/Second_Screen_User_Profiling_and_Multi-level_Smart_Recommendations_in_the_context_of_Social_TVs.pdf
+---

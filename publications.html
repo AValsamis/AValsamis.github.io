@@ -1,0 +1,28 @@
+---
+layout: page
+title: Publications
+---
+<section class="list">
+    <table>
+        <tr>
+            <th>Date</th>
+            <th>Title</th>
+        </tr>
+            {% for post in site.posts %}
+    {% if post.publications %}
+        <div class="item {% if post.star %}star{% endif %}">
+            <tr>
+                <td>
+                <time datetime="{{ post.date | date:"%Y" }}">{{ post.date | date: "%Y" }}</time>
+                </td>
+            <td>
+                <a class="url" align="justify" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
+                    <h5 class="title">{{ post.title }}</h5>
+                </a>
+            </td>
+            </tr>
+    </div>
+    {% endif %}
+    {% endfor %}
+    </table>
+</section>

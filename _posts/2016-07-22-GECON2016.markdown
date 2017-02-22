@@ -1,0 +1,12 @@
+---
+title: "Aisopos F., Valsamis A., Psychas A., Menychtas A., Varvarigou T. (2016) Graph-based Context Management and Personalized User Recommendations in a Smart TV environment, In: GECON2016 Conference, Athens, 2016 (post-print)"
+layout: post
+date: 2016-07-22 12:30
+publications: true
+hidden: true # don't count this post in blog pagination
+description: "A complete and realistic solution to fall detection"
+author: avalsamis
+
+
+externalLink: /assets/Graph-based_Context_Management_and_Personalized_User_Recommendations_in_a_Smart_TV_environment.pdf
+---

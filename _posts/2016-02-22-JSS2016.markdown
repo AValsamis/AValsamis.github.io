@@ -1,0 +1,12 @@
+---
+title: "A. Valsamis, K. Tserpes, D. Zissis, D. Anagnostopoulos, T. Varvarigou, Employing traditional machine learning algorithms for big data streams analysis: The case of object trajectory prediction, The Journal of Systems and Software (2016), http://dx.doi.org/10.1016/j.jss.2016.06.016 (post-print)"
+layout: post
+date: 2016-02-22 12:30
+publications: true
+hidden: true # don't count this post in blog pagination
+description: "A complete and realistic solution to fall detection"
+author: avalsamis
+
+
+externalLink: /assets/Employing_traditional_machine_learning_algorithms.pdf
+---
