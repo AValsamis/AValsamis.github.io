@@ -1,0 +1,12 @@
+---
+title: "Valsamis Angelos, Skandalellis Eleutherios"
+layout: post
+date: 2016-07-28 12:30
+publications: true
+hidden: true # don't count this post in blog pagination
+description: "Αποδοτική ανίχνευση πτώσης σε Android με χρήση τεχνικών κατωφλίου και εντοπισμό ζώνης εσωτερικού χώρου"
+author: avalsamis
+
+
+externalLink: /assets/dip.pdf
+---
